@@ -1,0 +1,23 @@
+.topnav a{
+    float: right;
+    color: black ;
+    overflow: hidden;
+    text-align: center;
+    padding: 17px 19px;
+    text-decoration: none;
+    font-size: 17px;
+}
+body{
+    margine: 0%;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+.tony-stark{
+    color: salmon;
+}
+.half-width{
+    width: 40%;
+    float: right;
+}
+.half-width img{
+    width: 100%;
+}
